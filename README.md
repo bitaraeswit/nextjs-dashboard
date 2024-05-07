@@ -1,5 +1,6 @@
-## Next.js App Router Course - Starter
+## Next.js App Router Course
+In this project, an invoice control website was developed using Next.js. Next14 features were implemented, using tailwindCSS and other Next features
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+--Credentials
+Email: user@nextmail.com
+Password: 123456
